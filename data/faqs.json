@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is Artificial Intelligence?",
+    "answer": "Artificial Intelligence is a technology that enables computers to perform tasks that normally require human intelligence."
+  },
+  {
+    "question": "What is Machine Learning?",
+    "answer": "Machine Learning is a branch of AI that enables computers to learn patterns from data and make predictions."
+  },
+  {
+    "question": "What is Python?",
+    "answer": "Python is a high-level programming language known for its simple syntax and wide range of applications."
+  },
+  {
+    "question": "What is cloud computing?",
+    "answer": "Cloud computing provides computing services such as storage, servers, and databases over the internet."
+  },
+  {
+    "question": "What is an API?",
+    "answer": "An API is a set of rules that allows different software applications to communicate with each other."
+  },
+  {
+    "question": "What is cybersecurity?",
+    "answer": "Cybersecurity is the practice of protecting computers, networks, and data from digital attacks."
+  },
+  {
+    "question": "What is a database?",
+    "answer": "A database is an organized collection of information that can be stored, managed, and retrieved."
+  },
+  {
+    "question": "What is the Internet?",
+    "answer": "The Internet is a global network that connects computers and devices to share information and communicate."
+  },
+  {
+    "question": "What is Generative AI?",
+    "answer": "Generative AI is a type of artificial intelligence that can create new content such as text, images, and code."
+  },
+  {
+    "question": "What is an operating system?",
+    "answer": "An operating system is system software that manages computer hardware and software resources."
+  }
+]

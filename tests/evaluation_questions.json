@@ -1,0 +1,27 @@
+[
+    {
+        "question": "What is Python?",
+        "expected_topic": "Python",
+        "category": "exact"
+    },
+    {
+        "question": "Explain machine learning",
+        "expected_topic": "Machine Learning",
+        "category": "rephrased"
+    },
+    {
+        "question": "Can you tell me about cloud computing?",
+        "expected_topic": "Cloud Computing",
+        "category": "rephrased"
+    },
+    {
+        "question": "What is an API?",
+        "expected_topic": "API",
+        "category": "exact"
+    },
+    {
+        "question": "Who is the president of India?",
+        "expected_topic": "unknown",
+        "category": "unrelated"
+    }
+]
